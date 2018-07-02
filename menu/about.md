@@ -14,11 +14,13 @@ If you have any suggestions for additions please leave a comment on [GitHub](htt
 Thank you,
 
 
+"https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/rui_cut.png"
+
 <table class="tg"  style="cellspacing:0; cellpadding:0; border:none">
   <tr>
     <th class="tg-yw4l">
   	  <p align="center"><br>
-        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://psychologie.unibas.ch/fileadmin/_processed_/5/e/csm_Dirk_Wulffwidesmall_b2037ee6a0.jpg?1516031838" height="100px"></a><br>
+        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/dirk_cut.png" height="100px"></a><br>
         <p align="center">
           <font size = 5>Dr. Dirk Wulff<br>University of Basel</font>
         </p>
@@ -26,7 +28,7 @@ Thank you,
     </th>
     <th class="tg-yw4l">
   	  <p align="center"><br>
-        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://ppw.kuleuven.be/apps/concat/simon/img/read.JPG" height="100px"></a><br>
+        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/simon_cut.png" height="100px"></a><br>
         <p align="center">
           <font size = 5>Dr. Simon De Deyne<br>University of Melbourne</font>
         </p>
@@ -34,7 +36,7 @@ Thank you,
     </th>
     <th class="tg-yw4l">
   	  <p align="center"><br>
-        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://www.unibas.ch/dam/jcr:19a29fe8-56fa-4f80-9671-0b02f49db752/mata_rui_print.jpg" height="100px"></a><br>
+        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/rui_cut.png" height="100px"></a><br>
         <p align="center">
           <font size = 5>Prof. Rui Mata<br>University of Basel</font>
         </p>
