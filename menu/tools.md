@@ -3,4 +3,11 @@ layout: page
 title: Contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+### R
+- [tm package](https://cran.r-project.org/web/packages/tm/vignettes/tm.pdf): Text Mining in R
+- [NetworkToolBox](https://github.com/AlexChristensen/NetworkToolbox) an R package to analyze brain, cognitive, and psychometric networks
+- [SemNetCleaner](https://github.com/AlexChristensen/SemNetCleaner): automated R package to clean semantic fluency data
+
+### Python
+- [spaCy](https://spacy.io): Industrial-Strength Natural Language Processing in Python
+
