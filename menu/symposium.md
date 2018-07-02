@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Symposium on the Aging Lexicon
-subtitle: Theory, Models, and Measurement of the Life Span Development of the Mental Lexicon
 ---
+ 
+### Theory, Models, and Measurement of the Life Span Development of the Mental Lexicon
  
 “(...) we make search in our memory for a forgotten idea, just as we rummage our house for a lost object. In both cases we visit what seems to us the probable neighborhood of that which we miss. We turn over the things under which, or within which, or alongside of which, it may possibly be; and if it lies near them, it soon comes to view. But these matters, in the case of a mental object sought, are nothing but its associates.”
 
