@@ -14,31 +14,29 @@ If you have any suggestions for additions please leave a comment on [GitHub](htt
 Thank you,
 
 
-"https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/rui_cut.png"
-
 <table class="tg"  style="cellspacing:0; cellpadding:0; border:none">
   <tr>
     <th>
   	  <p align="center"><br>
-        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/dirk_cut.png" height="100"></a><br>
+        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/dirk_cut.png" height="20"></a><br>
         <p align="center">
-          <font size = 5>Dr. Dirk Wulff<br>University of Basel</font>
+          <font size = "5">Dr. Dirk Wulff<br>University of Basel</font>
         </p>
       </p>  
     </th>
     <th>
   	  <p align="center"><br>
-        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/simon_cut.png" height="100"></a><br>
+        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/simon_cut.png" height="20"></a><br>
         <p align="center">
-          <font size = 5>Dr. Simon De Deyne<br>University of Melbourne</font>
+          <font size = "5">Dr. Simon De Deyne<br>University of Melbourne</font>
         </p>
       </p>  
     </th>
     <th>
   	  <p align="center"><br>
-        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/rui_cut.png" height="100"></a><br>
+        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/rui_cut.png" height="20"></a><br>
         <p align="center">
-          <font size = 5>Prof. Rui Mata<br>University of Basel</font>
+          <font size = "5">Prof. Rui Mata<br>University of Basel</font>
         </p>
       </p>  
     </th>   

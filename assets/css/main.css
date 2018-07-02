@@ -335,7 +335,7 @@ pre code {
 */
 
 table {
-  border-collapse: collapse;
+  /*border-collapse: collapse;*/
   margin-bottom: 30px;
   width: 100%;
 }
@@ -346,7 +346,7 @@ table, th, td {
 }
 
 th, td {
-  padding: 15px;
+  /*padding: 15px;*/
   text-align: left;
 }
 
