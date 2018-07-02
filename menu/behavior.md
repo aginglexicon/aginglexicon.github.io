@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Contact
+title: Behavioral data
 ---
+
 ### Lexicon Projects
 - [English Lexicon Project (ELP)](http://elexicon.wustl.edu/)
 - [Dutch Lexicon Project (DLP)](http://crr.ugent.be/programs-data/lexicon-projects)
