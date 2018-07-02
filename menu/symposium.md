@@ -27,12 +27,14 @@ The participants have initiated the compilation of resources found on this page 
 <a href="https://sites.google.com/site/andreabaronchelli/" title="Opens external link in new window" target="_blank" class="external-link-new-window">Andrea Baronchelli, City University of London, UK</a>
 <a href="http://crr.ugent.be/members/marc-brysbaert" title="Opens external link in new window" target="_blank">Marc Brysbaert, Ghent University, Belgium</a>
 <a href="https://research.shanghai.nyu.edu/centers-and-institutes/brain/people/qing-cai" title="Opens external link in new window" target="_blank">Qing Cai,&nbsp;East China Normal University, China</a>
+<a href="https://findanexpert.unimelb.edu.au/display/person809203" title="Opens external link in new window" target="_blank">Simon De Deyne, University of Melbourne, Australia</a>
 <a href="https://www.findanexpert.unimelb.edu.au/display/person811247" title="Opens external link in new window" target="_blank">Simon Dennis, University of Melbourne, Australia</a>
 <a href="https://warwick.ac.uk/fac/sci/psych/people/thills/" title="Opens external link in new window" target="_blank">Thomas Hills, University of Warwick, UK</a>
 <a href="http://psych.indiana.edu/faculty/jonesmn.php" title="Opens external link in new window" target="_blank">Michael Jones, Indiana University, USA</a>
 <a href="https://yoedkenett.academia.edu" title="Opens external link in new window" target="_blank">Yoed Kenett, University of Pennsylvania, USA</a>
 <a href="http://crr.ugent.be/members/emmanuel-keuleers" title="Opens external link in new window" target="_blank">Emmanuel Keuleers, Ghent University, Belgium</a>
 <a href="http://www.marcomarelli.net/" title="Opens external link in new window" target="_blank">Marco Marelli, University of Milan, Italy</a>
+<a href="https://psychologie.unibas.ch/en/persons/mata-rui/" title="Opens external link in new window" target="_blank">Rui Mata, University of Basel, Switzerland</a>
 <a href="https://healthinformatics.umn.edu/bio/ihi-faculty-staff/serguei-pakhomov" title="Opens external link in new window" target="_blank">Serguei V. S. Pakhomov, University of Minnesota, USA</a>
 <a href="http://www.sfs.uni-tuebingen.de/~mramscar/index.html" title="Opens external link in new window" target="_blank">Michael Ramscar, University of Tübingen, Germany</a>
 <a href="http://asfaculty.syr.edu/pages/psy/schooler-lael.html" title="Opens external link in new window" target="_blank">Lael Schooler, Syracuse University, USA</a>
@@ -41,3 +43,4 @@ The participants have initiated the compilation of resources found on this page 
 <a href="https://warwick.ac.uk/fac/sci/psych/people/csiew/" title="Opens external link in new window" target="_blank">Cynthia Siew, University of Warwick, UK</a>
 <a href="https://ppw.kuleuven.be/home/english/education/programmes/master-of-psychology-theory-and-research/teaching-staff/00014717" title="Opens external link in new window" target="_blank">Gert Storms,&nbsp;KU Leuven, Belgium</a>
 <a href="https://www.uni-potsdam.de/prim/staff/verissimo.html" title="Opens external link in new window" target="_blank">João Veríssimo, University of Potsdam, Germany</a>
+<a href="https://psychologie.unibas.ch/en/persons/dirk-wulff/" title="Opens external link in new window" target="_blank">Dirk U. Wulff, University of Basel, Switzerland</a>
