@@ -20,7 +20,7 @@ Thank you,
   <tr>
     <th class="tg-yw4l">
   	  <p align="center"><br>
-        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/dirk_cut.png" height="100px"></a><br>
+        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/dirk_cut.png" height="100"></a><br>
         <p align="center">
           <font size = 5>Dr. Dirk Wulff<br>University of Basel</font>
         </p>
@@ -28,7 +28,7 @@ Thank you,
     </th>
     <th class="tg-yw4l">
   	  <p align="center"><br>
-        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/simon_cut.png" height="100px"></a><br>
+        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/simon_cut.png" height="100"></a><br>
         <p align="center">
           <font size = 5>Dr. Simon De Deyne<br>University of Melbourne</font>
         </p>
@@ -36,7 +36,7 @@ Thank you,
     </th>
     <th class="tg-yw4l">
   	  <p align="center"><br>
-        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/rui_cut.png" height="100px"></a><br>
+        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/rui_cut.png" height="100"></a><br>
         <p align="center">
           <font size = 5>Prof. Rui Mata<br>University of Basel</font>
         </p>
