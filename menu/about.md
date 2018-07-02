@@ -18,7 +18,7 @@ Thank you,
 
 <table class="tg"  style="cellspacing:0; cellpadding:0; border:none">
   <tr>
-    <th class="tg-yw4l">
+    <th>
   	  <p align="center"><br>
         <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/dirk_cut.png" height="100"></a><br>
         <p align="center">
@@ -26,7 +26,7 @@ Thank you,
         </p>
       </p>  
     </th>
-    <th class="tg-yw4l">
+    <th>
   	  <p align="center"><br>
         <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/simon_cut.png" height="100"></a><br>
         <p align="center">
@@ -34,7 +34,7 @@ Thank you,
         </p>
       </p>  
     </th>
-    <th class="tg-yw4l">
+    <th>
   	  <p align="center"><br>
         <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/rui_cut.png" height="100"></a><br>
         <p align="center">
