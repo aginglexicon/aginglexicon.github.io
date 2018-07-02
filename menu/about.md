@@ -18,25 +18,25 @@ Thank you,
   <tr>
     <th>
   	  <p align="center"><br>
-        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/dirk_cut.png" height="20"></a><br>
+        <img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/dirk_cut.png" style="height=150"><br>
         <p align="center">
-          <font size = "5">Dr. Dirk Wulff<br>University of Basel</font>
+          Dr. Dirk Wulff<br>University of Basel
         </p>
       </p>  
     </th>
     <th>
   	  <p align="center"><br>
-        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/simon_cut.png" height="20"></a><br>
+        <img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/simon_cut.png" style="height=150"><br>
         <p align="center">
-          <font size = "5">Dr. Simon De Deyne<br>University of Melbourne</font>
+          Dr. Simon De Deyne<br>University of Melbourne
         </p>
       </p>  
     </th>
     <th>
   	  <p align="center"><br>
-        <a href="www.dirkwulff.org"><img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/rui_cut.png" height="20"></a><br>
+        <img border="0" alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/rui_cut.png" style="height=150"><br>
         <p align="center">
-          <font size = "5">Prof. Rui Mata<br>University of Basel</font>
+          Prof. Rui Mata<br>University of Basel
         </p>
       </p>  
     </th>   

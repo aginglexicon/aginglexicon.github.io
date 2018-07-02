@@ -20,7 +20,6 @@ The participants have initiated the compilation of resources found on this page 
 ![alt text](https://psychologie.unibas.ch/fileadmin/_processed_/7/f/csm_Group_5d17c4269c.jpg?1529921429)
 
 ### Participants
-
 <a href="http://psych.wisc.edu/staff/austerweil-joe/" title="Opens external link in new window" target="_blank" class="external-link-new-window">Joseph Austerweil</a>, University of Wisconsin-Madison, USA<br>
 <a href="http://www.sfs.uni-tuebingen.de/~hbaayen/index.html" title="Opens external link in new window" target="_blank">Harald Baayen</a>, University of Tübingen, Germany<br>
 <a href="https://psychweb.wustl.edu/people/david-balota" title="Opens external link in new window" target="_blank">David Balota</a>, Washington University in St. Louis, USA<br>
