@@ -15,11 +15,11 @@ If you have any suggestions please leave a comment on [GitHub](https://github.co
 
 ## Maintainers
 
-![](https://psychologie.unibas.ch/fileadmin/_processed_/5/e/csm_Dirk_Wulffwidesmall_b2037ee6a0.jpg?1516031838)
-Dr. Dirk Wulff
+![](https://psychologie.unibas.ch/fileadmin/_processed_/5/e/csm_Dirk_Wulffwidesmall_b2037ee6a0.jpg?1516031838 = 300x)
+Dr. Dirk Wulff, University of Base, Switzerland
 
-![](https://ppw.kuleuven.be/apps/concat/simon/img/read.JPG)
-Dr. Simon De Deyne
+![](https://ppw.kuleuven.be/apps/concat/simon/img/read.JPG = 300x)
+Dr. Simon De Deyne, University of Melbourne, Australia
 
-![](https://www.unibas.ch/dam/jcr:19a29fe8-56fa-4f80-9671-0b02f49db752/mata_rui_print.jpg)
-Prof. Rui Mata
+![](https://www.unibas.ch/dam/jcr:19a29fe8-56fa-4f80-9671-0b02f49db752/mata_rui_print.jpg = 300x)
+Prof. Rui Mata, University of Base, Switzerland
