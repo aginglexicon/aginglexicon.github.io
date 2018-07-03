@@ -22,7 +22,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'The Aging Lexicon'
 description:	       ''
-author:              'The Aging Lexicon Consortium'
+author:              'The Aging Lexicon Project'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
