@@ -6,7 +6,6 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'About   ', path: 'menu', url: 'about.html'}
 - {name: 'Symposium',   path: 'menu', url: 'symposium.html'}
 - {name: 'Norms',   path: 'menu', url: 'norms.html'}
 - {name: 'Corpora', path: 'menu', url: 'corpora.html'}
