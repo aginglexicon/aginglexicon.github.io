@@ -19,7 +19,7 @@ title: Symposium on the Aging Lexicon
 	<br><br>
 	The Symposium on the Aging Lexicon took place in <b>Basel, June 7-9, 2018</b>, and gathered experts in Psychology, Linguistics, Neuroscience, and related fields to discuss open issues with the goal of building bridges between the various perspectives, fostering research on the lifespan development of the mental lexicon, and accelerating future progress in this area. A list of organisers and participants can be found below.
 	<br><br>
-	The participants have initiated the compilation of resources found on this page that are potentially useful to researchers interested in the life span development of lexical and semantic knowledge.
+	The participants have initiated the compilation of resources found on this webpage that are potentially useful to researchers interested in the life span development of lexical and semantic knowledge.
 </p>
 
 
