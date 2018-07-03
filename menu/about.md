@@ -18,7 +18,7 @@ Thank you,
   <tr>
     <th>
   	  <p align="center"><br>
-        <img alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/dirk_cut.png" style:"height=150"><br>
+        <img alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/dirk_cut.png" style="height:150"><br>
         <p align="center">
           Dr. Dirk Wulff<br>University of Basel
         </p>
@@ -26,7 +26,7 @@ Thank you,
     </th>
     <th>
   	  <p align="center"><br>
-        <img alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/simon_cut.png" style:"height=150"><br>
+        <img alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/simon_cut.png" style="height:150"><br>
         <p align="center">
           Dr. Simon De Deyne<br>University of Melbourne
         </p>
@@ -34,7 +34,7 @@ Thank you,
     </th>
     <th>
   	  <p align="center"><br>
-        <img alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/rui_cut.png" style:"height=150"><br>
+        <img alt="" src="https://raw.githubusercontent.com/aginglexicon/aginglexicon.github.io/master/assets/img/rui_cut.png" style="height:150"><br>
         <p align="center">
           Prof. Rui Mata<br>University of Basel
         </p>
