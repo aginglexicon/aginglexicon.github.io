@@ -11,7 +11,7 @@ This webpage shall serve as a home for the ideas and resources collected during 
 
 If you have any suggestions for additions please leave a comment on [GitHub](https://github.com/aginglexicon/aginglexicon.github.io/issues/new).
 
-Thank you,
+Thank you!
 
 
 <table class="tg"  style="cellspacing:0; cellpadding:0; border:none">
@@ -40,4 +40,3 @@ Thank you,
         </p>
       </p>  
     </th>   
-  </table>
