@@ -12,6 +12,9 @@ title: Norms
 - [SUBTLEX-GR](http://www.bcbl.eu/databases/subtlex-gr): frequencies based on Greek subtitles (Dimitropoulou et al., 2010)
 - [SUBTLEX-UK](http://crr.ugent.be/archives/1423): frequencies based on British English subtitles
 - [SUBTLEX-PL](http://crr.ugent.be/programs-data/subtitle-frequencies/subtlex-pl): frequencies based on Polish subtitles
+- [SUBTLEX-PT](http://p-pal.di.uminho.pt/about/databases): frequencies based on Portuguese subtitles
+- [SUBTLEX-PT-BR](http://crr.ugent.be/programs-data/subtitle-frequencies/subtlex-pt-br): frequencies based on Brazilian Portuguese subtitles
+
 
 #### Lexical norms
 - [Age-of-acquisition (AoA) norms for over 50 thousand English words](http://crr.ugent.be/archives/806)
