@@ -30,6 +30,8 @@ title: Norms
 
 #### Concept and category norms
 - [Leuven concept data](https://ppw.kuleuven.be/apps/concat/datasets/brm_concepts/): norms for over 400 concrete nouns including typicality, similarity within particular domains, category naming data, exemplar generation data, frequency, AoA, etc.
+- [McRae Lab feature norms](https://sites.google.com/site/kenmcraelab/norms-data): feature norm Excel files from McRae, Cree, Seidenberg, & McNorgan (2005). Data for 541 English nouns.
+- [Centre for Speech, Language and the Brain (CSLB) Concept Property Norms](https://cslb.psychol.cam.ac.uk/propnorms):  Semantic properties and associated production frequency data for 638 concrete concepts, with data for each concept collected from 30 participants.
 
 #### Semantic vectors: 
 - [SNAUT](http://meshugga.ugent.be/snaut/): Interface and access to semantic vectors for Dutch and English based on word2vec
