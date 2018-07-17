@@ -8,4 +8,5 @@ title: Corpora
 - [Sketch Engine](https://www.sketchengine.eu/user-guide/user-manual/corpora/corpora-list/): Sketch engine lists free and commercial corpora in many different languages.
 - [DWDS](https://www.dwds.de): the Digitale Wörterbuch der deutschen Sprache - the digital dictionary of the German Language - offers a number of corpora and other resources in German.
 - [Taaluniversum corpora](http://taalunieversum.org/inhoud/corpora/d-coi-en-sonar): A variety of Dutch text corpora (e.g. SoNaR) provided by the Dutch *Taaluniversum*.
+- [Children's Printed Word Database](http://www.essex.ac.uk/psychology/cpwd/) : Printed word frequencies as read by children aged between 5 and 9
 
