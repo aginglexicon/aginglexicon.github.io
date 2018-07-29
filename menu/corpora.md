@@ -10,3 +10,4 @@ title: Corpora
 - [DWDS](https://www.dwds.de): the Digitale Wörterbuch der deutschen Sprache - the digital dictionary of the German Language - offers a number of corpora and other resources in German.
 - [Taaluniversum corpora](http://taalunieversum.org/inhoud/corpora/d-coi-en-sonar): A variety of Dutch text corpora (e.g. SoNaR) provided by the Dutch *Taaluniversum*.
 - [Children's Printed Word Database](http://www.essex.ac.uk/psychology/cpwd/) : Printed word frequencies as read by children aged between 5 and 9
+- [DeveL](https://www.mpib-berlin.mpg.de/en/research/max-planck-research-groups/mprg-read/projects/devel): Developmental lexicon project.
