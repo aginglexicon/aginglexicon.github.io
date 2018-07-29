@@ -15,6 +15,17 @@ title: Behavioral data
 - [Semantic Priming Project](http://spp.montana.edu/about.aspx)
 - [Form Priming Project (FPP)](http://www.adelmanlab.org/fpp/)
 
+### Similarity ratings
+- [MEN](https://staff.fnwi.uva.nl/e.bruni/MEN): Meaning similarity judgments for word paris. 
+
+### Picture naming
+- [Multi-Pic](https://www.bcbl.eu/databases/multipic/): research-focussed crowd-sourcing platform
+
+### Speech
+- [Spedi](http://spedi.ku.edu/): Collection of speech errors crowdsourced from the public.
+- [MALD](http://mald.artsrn.ualberta.ca/): Auditory lexical decision database for English words.
+- [MAPPD](https://mappd.org/): Moss Aphasia Psycholinguistic Project Database.
+
 ### Eye-tracking
 - [Provo Corpus](https://osf.io/sjefs/): A Large Eye-Tracking Corpus with Predictability Norms
 - [Ghent Eye-Tracking Corpus (GECO)](http://expsy.ugent.be/downloads/geco/): Includes bilingual data
@@ -23,6 +34,7 @@ title: Behavioral data
 ### Imaging data
 - [CMU fMRI dataset](http://www.cs.cmu.edu/afs/cs/project/theo-73/www/science2008/data.html): 60 concrete concepts. in 12 categories, collected while nine English speakers were presented with 60 line drawings of objects with text labels and were instructed to think of the same properties of the stimulus object consistently during each presentation. For each concept there are 6 instances of ~20k neural activity features (brain blood oxygenation levels). 
 - [Trento EEG data-set for 60 concepts](http://clic.cimec.unitn.it/brian/compNeuroWSnaacl10/): concepts in 2 categories (work tools and land mammals), collected while seven Italian speakers were silently naming photographic images that represent these concepts. For each concept there are 6 instances of ~15k neural activity features (spectral power in voltage signals). 
+- [ERP megastudy](https://osf.io/72b89/): Collection of ERP responses to 1,000 English words.
 
 ### Citizen-science studies and crowd-source platforms
 - [Prolific Academic](https://prolific.ac/): research-focussed crowd-sourcing platform
