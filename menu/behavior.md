@@ -43,3 +43,6 @@ title: Behavioral data
 - Executive control/Inhibition measures from an individual differences study with young and old adults: https://osf.io/rygex/ 
 - Meta-analysis of aging effects on inhibition tasks [data and analysis script)(https://osf.io/fthku/)
 - [Nun Study](https://en.wikipedia.org/wiki/Nun_Study)
+- [Wuggy non-word generator](http://crr.ugent.be/programs-data/wuggy): Wuggy is a pseudoword generator particularly geared towards making nonwords for psycholinguistic experiments. Wuggy makes pseudowords in Basque, Dutch, English, French, German, Serbian (Cyrillic and Latin), Spanish, and Vietnamese.
+- [Semantic decision for 10,000 English words](https://psyc.ucalgary.ca/languageprocessing/node/22) from the University of Calgary Language Processing lab. The same website also has smaller sets of norms for embodiment and emotional experience ratings for English verbs.
+
