@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Corpora
+title: SWOW
 ---
 
 This is SWOW
