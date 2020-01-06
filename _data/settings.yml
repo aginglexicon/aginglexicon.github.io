@@ -7,7 +7,7 @@ google-ID: 'UA-112060364-1'
 
 menu:
 - {name: 'Symposium',   path: 'menu', url: 'symposium.html'}
-#- {name: 'SWOW',   path: 'menu', url:  'SWOW.html'}
+- {name: 'SWOW',   path: 'menu', url:  'SWOW.html'}
 - {name: 'Norms',   path: 'menu', url: 'norms.html'}
 - {name: 'Corpora', path: 'menu', url: 'corpora.html'}
 - {name: 'Behavioral', path: 'menu', url: 'behavior.html'}
