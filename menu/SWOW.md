@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Small World of Words
+title:
 ---
 
-<img src="assets/img/SWOW_Tag_High.png">
+<img src="/assets/img/SWOW_Tag_High.png">
+<br>
 
 ### What is the **S**mall **W**orld **o**f **W**ords?
 
