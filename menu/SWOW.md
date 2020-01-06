@@ -19,10 +19,10 @@ Participants in SWOW can provide some basic demographic information, such as age
 
 #### Publications:
 
- *Wulff, D. U., De Deyne, S., Jones, M. N., Mata, R., & The Aging Lexicon Consortium (2019). New Perspectives on the Aging Lexicon. Trends in Cognitive Sciences, 23(8), 686–698. http://doi.org/10.1016/j.tics.2019.05.003*
+<a href="/assets/pdf/WulffAgingLexicon2019.pdf">*Wulff, D. U., De Deyne, S., Jones, M. N., Mata, R., & The Aging Lexicon Consortium (2019). New Perspectives on the Aging Lexicon. Trends in Cognitive Sciences, 23(8), 686–698. http://doi.org/10.1016/j.tics.2019.05.003*</a>
 
 Wulff et al. (2019) reviewed recent evidence on how life span changes in size and structure of the mental lexicon impact lexical and semantic cognition. They argue that models of the aging mental lexicon must integrate both ecological and psychological factors and they propose a research framework that distinguishes environmental exposure from cognitive mechanisms of learning, representation, and retrieval of information. They suggest that we need more studies like SWOW to better understand the aging lexicon.
 
- *Dubossarsky, H., De Deyne, S., & Hills, T. T. (2017). Quantifying the structure of free association networks across the life span. Developmental Psychology, 53(8), 1560–1570. http://doi.org/10.1037/dev0000347*
+ <a href="http://doi.org/10.1037/dev0000347">*Dubossarsky, H., De Deyne, S., & Hills, T. T. (2017). Quantifying the structure of free association networks across the life span. Developmental Psychology, 53(8), 1560–1570. http://doi.org/10.1037/dev0000347*</a>
 
 Dubossarky et al. (2017) investigated how the mental lexicon changes over the life span using data from SWOW. They found that associative networks evolve in a nonlinear (U-shaped) fashion over the life span. During early life, the network converges and becomes increasingly structured. Into late life, this pattern reverses but it is unclear whether this is a function of experience or age-related cognitive decline.

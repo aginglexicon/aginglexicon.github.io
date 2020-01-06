@@ -29,7 +29,7 @@ title: Symposium on the Aging Lexicon
 
 Learn more about the proceedings of the symposium from our joint publication:
 
- *Wulff, D. U., De Deyne, S., Jones, M. N., Mata, R., & The Aging Lexicon Consortium (2019). New Perspectives on the Aging Lexicon. Trends in Cognitive Sciences, 23(8), 686–698. http://doi.org/10.1016/j.tics.2019.05.003*
+<a href="/assets/pdf/WulffAgingLexicon2019.pdf">*Wulff, D. U., De Deyne, S., Jones, M. N., Mata, R., & The Aging Lexicon Consortium (2019). New Perspectives on the Aging Lexicon. Trends in Cognitive Sciences, 23(8), 686–698. http://doi.org/10.1016/j.tics.2019.05.003*</a>
 
 ### Participants
 <a href="http://psych.wisc.edu/staff/austerweil-joe/" title="Opens external link in new window" target="_blank" class="external-link-new-window">Joseph Austerweil</a>, University of Wisconsin-Madison, USA<br>
